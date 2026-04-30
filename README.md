@@ -20,7 +20,7 @@ A simple and responsive Weather App that allows users to search for real-time we
 
 ## 🚀 Live Demo
 
-https://mzk-flix-clone.netlify.app
+https://weather-tailwind-project.netlify.app
 
 ## 📖 About The Project
 
